@@ -127,7 +127,7 @@ skills: [
       ],
     },
     {
-      id: 0,
+      id: 1,
       img: prodigyLogo,
       role: "Data Analyst Intern",
       company: "Prodigy Infotech",
