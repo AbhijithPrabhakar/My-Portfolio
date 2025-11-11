@@ -35,6 +35,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
 import prodigyLogo from './assets/company_logo/prodigy_logo.png';
+import mmdesignLogo from './assets/company_logo/MMDesign.png';
 
 // Education Section Logo's
 import vpsLogo from './assets/education_logo/vps_logo.png';
@@ -128,7 +129,7 @@ skills: [
     },
     {
       id: 1,
-      img: prodigyLogo,
+      img: mmdesignLogo,
       role: "Junior Frontend Developer",
       company: "M M Designs Network Private Limited",
       date: "25th June - 31st July 2025",
