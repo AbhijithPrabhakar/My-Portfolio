@@ -35,7 +35,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
 import prodigyLogo from './assets/company_logo/prodigy_logo.png';
-import mmdesignLogo from './assets/company_logo/MMDesign.png';
+import mmdesignLogo from './assets/company_logo/MMDesigns.png';
 
 // Education Section Logo's
 import vpsLogo from './assets/education_logo/vps_logo.png';
