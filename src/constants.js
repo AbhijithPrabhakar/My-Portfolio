@@ -129,10 +129,10 @@ skills: [
     {
       id: 1,
       img: prodigyLogo,
-      role: "Data Analyst Intern",
-      company: "Prodigy Infotech",
-      date: "April 2024 - September 2024",
-desc: "During my internship at Prodigy InfoTech, I worked on AI-driven projects focused on data analysis, predictive modeling, and machine learning applications. I gained practical experience in exploring datasets, identifying patterns, and building intelligent solutions that address real-world problems. This role enhanced my understanding of AI workflows and strengthened my ability to think analytically, solve problems, and collaborate effectively in a remote environment.",
+      role: "Junior Frontend Developer",
+      company: "M M Designs Network Private Limited",
+      date: "25th June - 31st July 2025",
+desc: "I’m glad to share that I’ve successfully completed my internship as a Junior Frontend Developer at M M Designs Network Pvt. Ltd. This experience helped me enhance my skills in web development, teamwork, and problem-solving while working on real-world projects. Grateful for the guidance and learning opportunities throughout this journey!",
 skills: [
         "HTML",
         "CSS",
@@ -141,7 +141,7 @@ skills: [
         "TypeScript",
         "Node JS",
         "Tailwind CSS",
-        
+        "Git and GitHub",
       ],
     },
     
