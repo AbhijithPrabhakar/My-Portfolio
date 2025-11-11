@@ -126,6 +126,25 @@ skills: [
         
       ],
     },
+    {
+      id: 0,
+      img: prodigyLogo,
+      role: "Data Analyst Intern",
+      company: "Prodigy Infotech",
+      date: "April 2024 - September 2024",
+desc: "During my internship at Prodigy InfoTech, I worked on AI-driven projects focused on data analysis, predictive modeling, and machine learning applications. I gained practical experience in exploring datasets, identifying patterns, and building intelligent solutions that address real-world problems. This role enhanced my understanding of AI workflows and strengthened my ability to think analytically, solve problems, and collaborate effectively in a remote environment.",
+skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React JS",
+        "TypeScript",
+        "Node JS",
+        "Tailwind CSS",
+        
+      ],
+    },
+    
     
   ];
   
