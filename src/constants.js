@@ -155,9 +155,9 @@ skills: [
       id: 0,
       img: juLogo,
       school: "Jagannath University, Bahadurgarh",
-      date: "Sept 2022 - Pursuing",
-      grade: " N/A",
-      desc: "I am currently pursuing my B.Tech in Computer Science at Jagannath University, where I am building a strong foundation in core computer science subjects such as data structures, algorithms, operating systems, and software engineering. This academic journey has helped me develop problem-solving skills and a deep interest in areas like artificial intelligence, machine learning, and data analytics. I actively participate in coding challenges, workshops, and seminars to enhance my technical expertise and stay updated with industry trends.",
+      date: "Sept 2022 - Aug 2026",
+      grade: "7.1 CGPA",
+      desc: "I have completed my B.Tech in Computer Science from Jagannath University, where I developed a strong foundation in core computer science subjects such as data structures, algorithms, operating systems, and software engineering. Throughout my academic journey, I strengthened my problem-solving skills and developed a keen interest in areas such as artificial intelligence, machine learning, and data analytics. I actively participated in coding challenges, workshops, and seminars, which helped me enhance my technical knowledge and stay updated with industry trends.",
       degree: "Bachelor of Technology (B.Tech) in Computer Science",
     },
     {
